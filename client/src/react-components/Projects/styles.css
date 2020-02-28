@@ -1,0 +1,65 @@
+.projPageText {
+    margin: 0px 0px 20px 0px;
+    font-family: 'Open Sans';
+    font-size: 19px;
+    font-weight: 100;
+}
+
+.projPageText ul li {
+   padding: 5px;
+   list-style-type:
+}
+
+.projPageText b {
+    color: rgb(255, 132, 132);
+}
+
+.projVideo{
+    display: block;
+    margin: 0 auto;
+}
+
+.projMainImg {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+}
+
+.projButtons {
+    text-align: center;
+}
+
+.projLinkButton {
+    margin: 10px;
+    padding: 20px 40px;
+    background-color: rgb(255, 132, 132);
+    border: none;
+    border-radius: 10px;
+
+    font-family: 'Ubuntu';
+    font-size: 20px;
+    color: white;
+
+    transition: .5s ease;
+}
+
+.projLinkButton:hover {
+    background-color: rgb(173, 173, 173);
+    cursor: pointer;
+}
+
+.projScreenshotFK {
+    float: left;
+    display: block;
+    margin: 1px;
+    width: 498px;
+    height: 270px;
+}
+
+.projScreenshotPL {
+    float: left;
+    display: block;
+    margin: 1px;
+    width: 498px;
+    height: 310px;
+}

@@ -1,0 +1,53 @@
+.aboutColumn {
+    float: left;
+    width: 50%;
+
+    text-align: center;
+}
+
+/* Clear floats after the columns */
+.aboutContainer:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.aboutText {
+    padding: 0px 60px;
+
+    font-family: 'Karla';
+    font-size: 125%;
+}
+
+.aboutHeader {
+    padding-top: 40px;
+    margin-bottom: 40px;
+
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(255, 132, 132);
+}
+
+.contactContainer {
+    height: 50px;
+    line-height: 50px;
+}
+
+.contactIcon {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+
+    vertical-align: middle;
+}
+
+.contactText {
+    display: inline-block;
+    
+    vertical-align: middle;
+
+    font-family: 'Oxanium';
+    font-size: 150%;
+    color: black;
+}

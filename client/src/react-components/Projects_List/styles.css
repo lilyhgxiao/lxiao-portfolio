@@ -1,0 +1,72 @@
+.projLinkContainer {
+    width: 100%;
+    height: 330px;
+    border-style: solid none solid none;
+    border-width: 1px;
+}
+
+.projLinkCell {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.projLinkImg {
+    float: left;
+    width: 100%;
+}
+
+.projLinkInfo {
+    position: relative;
+    float: left;
+    padding: 20px 30px;
+    height: 80%;
+}
+
+.projLinkTitle {
+    font-family: 'Karla';
+    font-size: 50px;
+}
+
+.projLinkTools {
+    margin-bottom: 40px;
+    font-family: 'Titillium Web';
+    font-weight: 300;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(173, 173, 173);
+}
+
+.projLinkDesc {
+    margin-bottom: 40px;
+
+    font-family: 'Ubuntu';
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.projLink {
+    position: absolute;
+    text-align: right;
+    right: 0;
+    bottom: 0;
+    vertical-align: bottom;
+    text-decoration: none;
+}
+
+.projLinkText {
+    margin-right: 20px;
+    font-family: 'Karla';
+    font-weight: 600;
+    font-size: 25px;
+    color: rgb(255, 132, 132);
+    transition: .5s ease;
+}
+
+.projLinkText:hover {
+    margin-right: 20px;
+    font-family: 'Karla';
+    font-weight: 600;
+    font-size: 25px;
+    color: rgb(46, 43, 43);
+}
