@@ -32,6 +32,13 @@ class Projects extends React.Component {
                         />
                         <ProjLinkRight
                             img={petlabs}
+                            title="GOCha"
+                            tools="Javascript, React, Express, Mongoose, Amazon S3, Heroku"
+                            info="A virtual gachapon generator for creators who want to create a gacha pool with no coding experience."
+                            link="/gocha"
+                        />
+                        <ProjLinkLeft
+                            img={petlabs}
                             title="PetLabs"
                             tools="Javascript, React, Express, Mongoose, Heroku, Photoshop"
                             info="A virtual pet care web application."

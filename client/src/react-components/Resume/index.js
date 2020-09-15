@@ -9,7 +9,7 @@ import "./../../App.css";
 import "./styles.css";
 
 /* Importing images */
-import resume from "./../../images/other/Lily Xiao.pdf";
+import resume from "./../../images/other/Lillian Xiao.pdf";
 
 /* Viewing and downloading resume component*/
 class Resume extends React.Component {
