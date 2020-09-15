@@ -30,6 +30,7 @@ class Projects extends React.Component {
                             info="A 3D PC puzzle platformer where you command magic flames to activate the environment."
                             link="/flame_keeper"
                         />
+                        { /*
                         <ProjLinkRight
                             img={petlabs}
                             title="GOCha"
@@ -37,7 +38,16 @@ class Projects extends React.Component {
                             info="A virtual gachapon generator for creators who want to create a gacha pool with no coding experience."
                             link="/gocha"
                         />
+                        
                         <ProjLinkLeft
+                            img={petlabs}
+                            title="PetLabs"
+                            tools="Javascript, React, Express, Mongoose, Heroku, Photoshop"
+                            info="A virtual pet care web application."
+                            link="/petlabs"
+                        />
+                        */ }
+                        <ProjLinkRight
                             img={petlabs}
                             title="PetLabs"
                             tools="Javascript, React, Express, Mongoose, Heroku, Photoshop"
