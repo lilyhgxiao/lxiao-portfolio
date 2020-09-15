@@ -26,7 +26,7 @@ class Resume extends React.Component {
                                 welcome!
                             </div>
                             <div className="aboutText">
-                                I’m Lily, a software engineer who loves games, both digital and analog.
+                                I’m Lily, a software developer who loves games, both digital and analog.
                                 Not only do I like to play them, I also like to make them!
                                 I'm a quick learner and can make any role work.
                                 In my spare time, I like to draw, learn random science trivia, and assist 

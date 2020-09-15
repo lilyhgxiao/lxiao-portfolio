@@ -20,7 +20,7 @@ class Homepage extends React.Component {
             <div className="App">
                 <Header/>
                 <div className="mainBody">
-                    <h1>software engineer</h1>
+                    <h1>software developer</h1>
                     <div className="projectPrev">
                         <ProjPreview
                             src={flamekeeper}
